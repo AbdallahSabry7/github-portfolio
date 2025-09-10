@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.aa421065.css",
-    "main.js": "/portfolio/static/js/main.0e549b24.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Topic modeling.png": "/portfolio/static/media/Topic modeling.0cbb1596da1df7a5295d.png",
-    "static/media/qa.png": "/portfolio/static/media/qa.0593c864c35d2b46064c.png",
-    "static/media/text summerization.png": "/portfolio/static/media/text summerization.5266d23b9e3f57a9251f.png",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Abdallah_Resume_1.pdf": "/portfolio/static/media/Abdallah_Resume_1.7d0e12e6cd400edfa81b.pdf",
-    "static/media/United states sales analysis.png": "/portfolio/static/media/United states sales analysis.954f4bb0bc617152096d.png",
-    "static/media/sentiment analysis.png": "/portfolio/static/media/sentiment analysis.4504c95fab2ce0fc7ec2.png",
-    "static/media/Medical appointment analysis.png": "/portfolio/static/media/Medical appointment analysis.9f4ebe2d4afce3405059.png",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolio/index.html",
-    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
-    "main.0e549b24.js.map": "/portfolio/static/js/main.0e549b24.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/github-portfolio/static/css/main.3f752439.css",
+    "main.js": "/github-portfolio/static/js/main.6d8ac86f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/github-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/github-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Topic modeling.png": "/github-portfolio/static/media/Topic modeling.0cbb1596da1df7a5295d.png",
+    "static/media/qa.png": "/github-portfolio/static/media/qa.0593c864c35d2b46064c.png",
+    "static/media/text summerization.png": "/github-portfolio/static/media/text summerization.5266d23b9e3f57a9251f.png",
+    "static/media/home-main.svg": "/github-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/github-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Abdallah_Resume_1.pdf": "/github-portfolio/static/media/Abdallah_Resume_1.7d0e12e6cd400edfa81b.pdf",
+    "static/media/United states sales analysis.png": "/github-portfolio/static/media/United states sales analysis.954f4bb0bc617152096d.png",
+    "static/media/sentiment analysis.png": "/github-portfolio/static/media/sentiment analysis.4504c95fab2ce0fc7ec2.png",
+    "static/media/Medical appointment analysis.png": "/github-portfolio/static/media/Medical appointment analysis.9f4ebe2d4afce3405059.png",
+    "static/media/home-bg.jpg": "/github-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/github-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/github-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/github-portfolio/index.html",
+    "main.3f752439.css.map": "/github-portfolio/static/css/main.3f752439.css.map",
+    "main.6d8ac86f.js.map": "/github-portfolio/static/js/main.6d8ac86f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/github-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/github-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa421065.css",
-    "static/js/main.0e549b24.js"
+    "static/css/main.3f752439.css",
+    "static/js/main.6d8ac86f.js"
   ]
 }
