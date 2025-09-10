@@ -1,71 +1,74 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
-} from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+import { DiPython, DiGit } from "react-icons/di";
+import { 
+  SiNumpy, 
+  SiPandas, 
+  SiScikitlearn, 
+  SiPytorch, 
+  SiTensorflow, 
+  SiKeras, 
+  SiJupyter, 
+  SiPostgresql, 
+  SiTableau, 
+  SiPowerbi, 
+  SiPlotly, 
+  SiDash 
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      {/* Core ML & Data Science */}
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <DiPython /> {/* Python */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <SiNumpy /> {/* NumPy */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <SiPandas /> {/* Pandas */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiScikitlearn /> {/* Scikit-learn */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <SiPytorch /> {/* PyTorch */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiTensorflow /> {/* TensorFlow */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <SiKeras /> {/* Keras */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <SiJupyter /> {/* Jupyter Notebooks */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiPostgresql /> {/* SQL / Databases */}
+      </Col>
+
+      {/* Visualization & Analytics */}
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPlotly /> {/* Plotly */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <SiDash /> {/* Dash */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <SiTableau /> {/* Tableau */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
+        <SiPowerbi /> {/* Power BI */}
       </Col>
+
+      {/* Collaboration & Version Control */}
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <DiGit /> {/* Git */}
       </Col>
     </Row>
   );
 }
 
 export default Techstack;
+
